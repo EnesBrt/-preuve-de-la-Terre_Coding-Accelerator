@@ -1,10 +1,9 @@
 # Afficheur d’arguments
 
-def display_arguments():
-    sentence = input("Write a sentence : ")
-    words = sentence.split()
+def display_arguments(arguments):
+    words = arguments.split()
     for n in words:
         print(n)
 
 
-display_arguments()
+display_arguments("Je suis Solid !")
