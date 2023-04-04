@@ -5,7 +5,7 @@ def odd_or_even(number):
     try:
         number = int(number)
 
-        if int(number) % 2 == 0:
+        if number % 2 == 0:
             print("pair")
         else:
             print("impair")
