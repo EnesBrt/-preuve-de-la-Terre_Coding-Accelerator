@@ -4,7 +4,7 @@ def inverse(words):
     print(words[::-1])
 
     if not words:
-        print("erreur, l'entrer est vide.")
+        print("erreur.")
 
 
 word = input()
