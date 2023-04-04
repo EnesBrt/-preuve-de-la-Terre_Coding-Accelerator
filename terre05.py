@@ -4,8 +4,7 @@ def division(a, b):
     try:
         a = int(a)
         b = int(b)
-        result = a / b
-        result = int(round(result, 1))
+        result = int(round(a / b, 1))
         remainder = a % b
 
         if result != 0:
