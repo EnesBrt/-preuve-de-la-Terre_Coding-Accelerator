@@ -1,8 +1,5 @@
 # Nom du programme
 
-import sys
-import os
-
-file_name = os.path.basename(sys.argv[0])
+file_name = "terre01.py"
 
 print(file_name)

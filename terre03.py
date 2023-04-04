@@ -16,6 +16,6 @@ def index(letter):
     print(result)
 
 
-letter = input("write a letter: ").lower()
+letter = input("write a letter: ")
 
 index(letter)

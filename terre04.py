@@ -14,6 +14,6 @@ def odd_or_even(number):
         print("Tu ne me la mettras pas à l’envers.")
 
 
-number = input("Write a number: ")
+write = input("Write a number: ")
 
-odd_or_even(number)
+odd_or_even(write)
