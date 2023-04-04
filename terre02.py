@@ -6,4 +6,4 @@ def display_arguments(arguments):
         print(n)
 
 
-display_arguments("Je suis Solid !")
+display_arguments("Je suis solid !")
