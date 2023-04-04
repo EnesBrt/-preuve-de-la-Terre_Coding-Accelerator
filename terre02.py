@@ -6,4 +6,6 @@ def display_arguments(arguments):
         print(n)
 
 
-display_arguments("Je suis solid !")
+sentence = input("Write a sentence: ")
+
+display_arguments(sentence)

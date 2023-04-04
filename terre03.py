@@ -6,13 +6,16 @@ letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n",
 
 
 def index(letter):
-
-    element_index = 0
+    index = 0
 
     for i in range(len(letters)):
         if letters[i] == letter:
-            element_index = i
-    print(f"the index of {letter} is: ", element_index)
+            index = i
+
+    result = ''.join(letters[index:])
+    print(result)
 
 
-index("o")
+letter = input("write a letter: ").lower()
+
+index(letter)
