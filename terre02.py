@@ -1,3 +1,5 @@
+# Afficheur d’arguments
+
 def display_arguments():
     sentence = input("Write a sentence : ")
     words = sentence.split()
