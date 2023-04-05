@@ -16,7 +16,7 @@ elif len(sys.argv) == 3:
     number_one = sys.argv[1]
     number_two = sys.argv[2]
     if number_one.isalpha() and number_two.isalpha():
-        print("Erreur : Veuillez fournir une chaîne de caractères numérique en tant qu'argument.")
+        print("Erreur : Veuillez fournir deux nombres en tant qu'argument.")
     else:
         power(number_one, number_two)
 else:
