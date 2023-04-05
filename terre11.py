@@ -8,7 +8,7 @@ def to_am_pm(time):
         print("12" + time[2:] + "AM")
     elif time[:2] == "12":
         print(time + "PM")
-    elif "01" <= time[:2] < "11":
+    elif "01" <= time[:2] <= "11":
         print( time + "AM")
     elif "13" <= time[:2] < "24":
         print("0" + str(int(time[:2]) - 12) + time[2:] + "PM")
