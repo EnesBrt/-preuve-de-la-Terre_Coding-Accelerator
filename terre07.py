@@ -16,4 +16,4 @@ elif len(sys.argv) == 2:
     else:
         len_string(message)
 else:
-    print("Erreur : Veuillez fournir un message en tant qu'argument.")
+    print("Erreur : Veuillez fournir un seul message en tant qu'argument.")

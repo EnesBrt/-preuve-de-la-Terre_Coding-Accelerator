@@ -18,4 +18,4 @@ elif len(sys.argv) == 2:
     else:
         square_root(number)
 else:
-    print("Erreur : Veuillez fournir un message en tant qu'argument.")
+    print("Erreur : Veuillez fournir un nombre en tant qu'argument.")
