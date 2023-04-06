@@ -15,9 +15,9 @@ def to_am_pm(time):
 
 
 if len(sys.argv) > 2:
-    print("Erreur : Veuillez fournir un seul élement en tant qu'argument.")
+    print("Erreur : Veuillez entrer qu'un seul argument..")
 elif len(sys.argv) == 2:
     message = sys.argv[1]
     to_am_pm(message)
 else:
-    print("Erreur : Veuillez fournir un seul message en tant qu'argument.")
+    print("Erreur : Veuillez entrer qu'un seul argument..")

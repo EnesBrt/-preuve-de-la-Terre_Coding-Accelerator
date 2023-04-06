@@ -42,14 +42,14 @@ def find_the_middle(a, b, c):
 
 
 if len(sys.argv) > 4:
-    print("Erreur: Veuillez fournir trois nombres en tant qu'argument.")
+    print("Erreur: Veuillez entrer trois arguments.")
 elif len(sys.argv) == 4:
     number_one = sys.argv[1]
     number_two = sys.argv[2]
     number_three = sys.argv[3]
     if number_one.isalpha() and number_two.isalpha():
-        print("Erreur: Veuillez fournir trois nombres en tant qu'argument.")
+        print("Erreur: les arguments doivent être trois nombres entiers.")
     else:
         find_the_middle(number_one, number_two, number_three)
 else:
-    print("Erreur: Veuillez fournir trois nombres en tant qu'argument.")
+    print("Erreur: Veuillez entrer trois arguments.")

@@ -1,11 +1,12 @@
 # Afficheur d’arguments
 
+import sys
+
+
 def display_arguments(arguments):
-    words = arguments.split()
-    for n in words:
+    for n in arguments:
         print(n)
 
 
-sentence = input("Write a sentence: ")
-
-display_arguments(sentence)
+arguments = sys.argv[1:]
+display_arguments(arguments)

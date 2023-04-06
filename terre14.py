@@ -8,7 +8,7 @@ def order(*a):
     numbers = [int(i) for i in a]
 
     for n in range(len(numbers) - 1):
-        if numbers[n] > numbers[n + 1]:
+        if numbers[n] > numbers[n + 1] > numbers[n + 2] > numbers[n + 3] or numbers[n + 1] > numbers[n + 2] or numbers[n + 2] > numbers[n + 3]:
             print("pas trié !")
             break
         else:

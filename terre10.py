@@ -1,4 +1,5 @@
 # Nombre premier
+
 import sys
 
 
@@ -21,12 +22,12 @@ def prime_number(a):
 
 
 if len(sys.argv) > 2:
-    print("Erreur : Veuillez fournir un nombres en tant qu'argument.")
+    print("Erreur : Veuillez entrer qu'un seul argument..")
 elif len(sys.argv) == 2:
     number = sys.argv[1]
     if number.isalpha():
-        print("Erreur : Veuillez fournir un nombre en tant qu'argument.")
+        print("Erreur : l'argument doit être un nombre entier.")
     else:
         prime_number(number)
 else:
-    print("Erreur : Veuillez fournir un nombre en tant qu'argument.")
+    print("Erreur : Veuillez entrer qu'un seul argument.")

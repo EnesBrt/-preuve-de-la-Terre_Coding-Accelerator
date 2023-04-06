@@ -1,7 +1,9 @@
 # Pair ou impair
 
-def odd_or_even(number):
+import sys
 
+
+def odd_or_even(number):
     try:
         number = int(number)
 
@@ -14,6 +16,8 @@ def odd_or_even(number):
         print("Tu ne me la mettras pas à l’envers.")
 
 
-write = input("Write a number: ")
-
-odd_or_even(write)
+if len(sys.argv) == 2:
+    arguments = sys.argv[1]
+    odd_or_even(arguments)
+else:
+    print("Tu ne me la mettras pas à l’envers.")

@@ -10,12 +10,12 @@ def square_root(a):
 
 
 if len(sys.argv) > 2:
-    print("Erreur : Veuillez fournir un nombres en tant qu'argument.")
+    print("Erreur : Veuillez entrer qu'un seul argument.")
 elif len(sys.argv) == 2:
     number = sys.argv[1]
     if number.isalpha():
-        print("Erreur : Veuillez fournir un nombre en tant qu'argument.")
+        print("Erreur : Veuillez entrer un nombre en tant qu'argument.")
     else:
         square_root(number)
 else:
-    print("Erreur : Veuillez fournir un nombre en tant qu'argument.")
+    print("Erreur : Veuillez entrer qu'un seul argument.")
