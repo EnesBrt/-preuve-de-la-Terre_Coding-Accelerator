@@ -3,6 +3,13 @@
 import sys
 
 
+def isalpha(input_string):
+    for x in input_string:
+        if not ('a' <= x <= 'z'):
+            return False
+    return True
+
+
 def prime_number(a):
     a = int(a)
     square_root = a ** (1 / 2)
@@ -25,7 +32,7 @@ if len(sys.argv) > 2:
     print("Erreur : Veuillez entrer qu'un seul argument..")
 elif len(sys.argv) == 2:
     number = sys.argv[1]
-    if number.isalpha():
+    if isalpha(number):
         print("Erreur : l'argument doit être un nombre entier.")
     else:
         prime_number(number)

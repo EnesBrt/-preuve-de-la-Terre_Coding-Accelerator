@@ -2,6 +2,7 @@
 
 import sys
 
+
 def division(a, b):
     try:
         a = int(a)
@@ -23,7 +24,7 @@ if len(sys.argv) > 3:
     print("Erreur : Veuillez entrer deux arguments.")
 elif len(sys.argv) == 3:
     first_argument = sys.argv[1]
-    second_argument = sys.argv[1]
+    second_argument = sys.argv[2]
     division(first_argument, second_argument)
 else:
     print("Erreur : Veuillez entrer deux arguments.")
