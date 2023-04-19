@@ -2,7 +2,7 @@
 
 # Epreuve de la Terre - Coding Accelerator
 
-Ce dépôt GitHub contient des exercices pour le module "Epreuve de la Terre - Coding Accelerator". Ce programme vise à aider les débutants à améliorer leurs compétences en programmation et en génie logiciel. Pour en savoir plus sur le programme, consultez le site officiel : <a href="https://joincodingnow.com/coding-accelerator" target="_blank">joincodingnow.com/coding-accelerator</a>.
+Ce dépôt GitHub contient des exercices pour le module "Epreuve de la Terre - Coding Accelerator". Ce programme vise à aider les débutants à améliorer leurs compétences en programmation et en génie logiciel. Pour en savoir plus sur le programme, consultez le site officiel : [![Join Coding Now](https://img.shields.io/badge/Visit-Join%20Coding%20Now-blue)](https://joincodingnow.com/coding-accelerator)
 
 ## Contenu du dépôt
 
