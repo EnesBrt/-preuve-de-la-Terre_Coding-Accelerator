@@ -1,4 +1,4 @@
-![Epreuve de la Terre - Coding Accelerator](https://cdn.pixabay.com/photo/2022/03/21/07/02/fire-7082466_1280.png)
+![Epreuve de la Terre - Coding Accelerator](https://cdn.pixabay.com/photo/2020/08/05/13/30/eco-5465494_1280.png)
 
 # Epreuve de la Terre - Coding Accelerator
 
