@@ -1,4 +1,4 @@
-![Epreuve de la Terre - Coding Accelerator](https://www.dropbox.com/s/dl16v82cgrpmm05/CodingAccelerator.png?dl=0)
+![Epreuve de la Terre - Coding Accelerator](https://www.dropbox.com/s/dl16v82cgrpmm05/CodingAccelerator.jpg?dl=0)
 
 # Epreuve de la Terre - Coding Accelerator
 
