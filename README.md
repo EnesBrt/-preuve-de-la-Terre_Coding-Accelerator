@@ -1,4 +1,4 @@
-![Epreuve de la Terre - Coding Accelerator](https://www.dropbox.com/s/dl16v82cgrpmm05/CodingAccelerator.png?dl=0)
+![Epreuve de la Terre - Coding Accelerator](https://previews.dropbox.com/p/thumb/AB7K0W2Plf5gU3GWErdD-9plmcli5PKJ93YzAOGUNbhwL6m7st4-OiRFvYX8qFFgrDr5iwdr_d1TlSNoPXgdE7VsV1ygQ_S6OCMUPiXuVSIidN43WeTjmd1SxS-NC1IFCh4GFZS71WX5YLFZYAK-1XWSgtuZKc6UduURReArNcFDzMFJhbvnsNt34LbS7bTFnK_dFmBDqyZzIHDDJ84W92rnKzCZxCpnTDng6-WIJz-IHHtfT2Bx69v-Tq45sB3QbMdThWR2VPS9K4rwUj3gk7JQ9OjcD_l9pGMAst8srnD5sCJb0zKyrTL6cmPcQdBRQ6yPlM3MXfzvYrPYsNC9cHN_0ez7w3Bd8MfUkyFX1q9MnsacTUkMjsNZl_GOfQ3uvqs/p.jpeg)
 
 # Epreuve de la Terre - Coding Accelerator
 
