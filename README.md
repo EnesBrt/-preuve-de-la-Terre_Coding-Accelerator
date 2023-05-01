@@ -1,4 +1,4 @@
-![Epreuve de la Terre - Coding Accelerator](https://joincodingnow.com/assets/logo_ca_black-e3e99cdfaa5c0148839b154dfc3a95f0ef9b12195cd11c052d0b903dbed1785c.png)
+![Epreuve de la Terre - Coding Accelerator](https://cdn.pixabay.com/photo/2022/03/21/07/02/fire-7082466_1280.png)
 
 # Epreuve de la Terre - Coding Accelerator
 
