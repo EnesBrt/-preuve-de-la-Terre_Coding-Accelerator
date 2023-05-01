@@ -1,4 +1,4 @@
-![Epreuve de la Terre - Coding Accelerator](https://cdn.pixabay.com/photo/2020/08/05/13/30/eco-5465494_1280.png)
+![Epreuve de la Terre - Coding Accelerator](https://img.freepik.com/free-vector/sustainable-business-logo-leaf-icon-design_53876-105458.jpg?w=1380&t=st=1682949609~exp=1682950209~hmac=69fbabe93313fe1c63db22c2e60d28e93ca2db9e890ec256f213b4eeb1f5df02)
 
 # Epreuve de la Terre - Coding Accelerator
 
